@@ -1,0 +1,103 @@
+Ward Code,Areas,Latitude,Longitude,Flood-risk_level
+Ward A,Colaba Causeway,18.9151,72.8141,Moderate
+Ward A,Ballard Estate,18.9496,72.8414,Moderate
+Ward A,Regal Circle,18.9225,72.8312,Moderate
+A,Fort,19.05088346,72.76146598,Low
+Ward A,Metro Cinema Subway,18.9445,72.8279,Moderate
+Ward B,Dongri Circle,18.9594,72.8376,Moderate
+Ward B,P D'Mello Road (near Masjid Bunder),18.9556,72.8412,Moderate
+Ward B,Carnac Bunder underpass,18.9519,72.8356,Moderate
+Ward C,Marine Lines Subway,18.9458,72.8238,Moderate
+Ward C,CST Subway (near St. Xavier's),18.9472,72.8272,Moderate
+C,Bhuleshwar,19.07657952,72.84501224,Low
+Ward C,Princess Street corner (Marine Lines Junction),18.9494,72.8278,Moderate
+Ward E,Nair Hospital Junction,18.9713,72.8255,Moderate
+E,Byculla,19.2940447,72.72749992,Low
+Ward E,Saat Rasta Junction,18.9754,72.8226,Moderate
+E,Madanpura,18.94561466,72.94225348,Low
+Ward E,Dockyard Road (Mazgaon),18.9637,72.8443,Moderate
+Ward F/N,King's Circle,19.0272,72.8559,Moderate
+Ward F/N,Sion Circle,19.0373,72.8555,Moderate
+Ward F/N,Gandhi Market Junction,19.0337,72.8512,Moderate
+F/N,Matunga,19.11092885,72.98558095,Low
+Ward F/N,Five Gardens Underpass,19.0163,72.8494,Moderate
+F/N,Wadala,18.87827989,72.84007918,Low
+Ward F/N,Hindmata Junction,19.0199,72.8439,Moderate
+Ward F/S,Naigaon Cross Road,19.0081,72.8367,Moderate
+F/S,Sewri,19.27535715,72.91959818,Low
+Ward F/S,Jerbai Wadia Road,19.0049,72.8397,Moderate
+Ward G/N,Dadar TT,19.0195,72.8436,Moderate
+G/N,Mahim,19.06413713,72.88843952,Low
+Ward G/N,LJ Road Junction,19.0372,72.8401,Moderate
+G/N,Dharavi,19.14503768,72.81711293,Low
+Ward G/N,Near Kirti College,19.0294,72.8371,Moderate
+Ward G/N,Lady Jamshedji Road,19.0299,72.8393,Moderate
+G/S,Worli,19.12385454,72.85079194,Low
+Ward G/S,Elphinstone Bridge (Lower Parel),19.0172,72.8337,Moderate
+G/S,Prabhadevi,18.81233498,72.82206953,Low
+Ward G/S,Tulsi Pipe Road near station,19.0098,72.8319,Moderate
+Ward G/S,Worli Naka (coastal backflow),19.0056,72.8199,Moderate
+Ward H/E,Kalina CST Road,19.0802,72.8655,Moderate
+Ward H/E,Air India Colony,19.084,72.87,Moderate
+Ward H/E,Kalina University Junction,19.0722,72.8673,Moderate
+Ward H/E,Vakola Nala stretch,19.0754,72.8517,Moderate
+Ward H/W,Linking Road near National College,19.0543,72.8301,Moderate
+H/W,Khar West,19.1646607,72.77101183,Low
+Ward H/W,SV Road (Khar Subway),19.0717,72.8391,Moderate
+H/W,Santacruz West,19.18868656,72.8743115,Low
+Ward H/W,Waterfield Road,19.0605,72.8335,Moderate
+Ward K/E,Saki Naka Junction,19.1031,72.8882,Moderate
+Ward K/E,Marol Naka,19.1049,72.8837,Moderate
+Ward K/E,JB Nagar (Metro area),19.1089,72.8664,Moderate
+K/E,Andheri East,18.87387316,72.82843701,Low
+Ward K/E,Airport Gate 8 Road,19.0995,72.8662,Moderate
+Ward K/W,SV Road (Andheri Subway),19.1182,72.8463,Moderate
+Ward K/W,Oshiwara Nullah stretch,19.1482,72.8273,Moderate
+K/W,Vile Parle West,18.88830685,72.86461588,Low
+Ward K/W,DN Nagar Metro area,19.136,72.8314,Moderate
+Ward P/N,Kurar Village,19.1903,72.8605,Moderate
+Ward P/N,Pathanwadi,19.1834,72.8701,Moderate
+P/N,Marve,18.84279647,72.92839484,Low
+Ward P/N,Pushpa Park,19.1853,72.8623,Moderate
+Ward P/N,Western Express Highway slope,19.1906,72.8636,Moderate
+Ward P/S,MG Road,19.1598,72.8445,Moderate
+Ward P/S,Siddharth Hospital area,19.1639,72.8433,Moderate
+P/S,Goregaon,18.99427905,72.83460809,Low
+Ward P/S,Motilal Nagar,19.1613,72.8407,Moderate
+Ward P/S,Goregaon Station Subway,19.1555,72.8441,Moderate
+Ward R/N,Dahisar Subway,19.2525,72.8601,Moderate
+Ward R/N,Ovaripada slum slope,19.2536,72.8682,Moderate
+R/N,Dahisar,18.85334504,72.97523957,Low
+Ward R/S,Shimpoli Road,19.2064,72.8376,Moderate
+Ward R/S,Poinsur Depot,19.2083,72.8361,Moderate
+R/S,Kandivali,19.03759446,72.74871077,Low
+Ward R/S,Mahavir Nagar junction,19.206,72.83,Moderate
+Ward R/C,IC Colony Subway,19.2365,72.8322,Moderate
+Ward R/C,Mandapeshwar Creek edge,19.2408,72.8173,Moderate
+R/C,Borivali,18.87866314,72.73566232,Low
+Ward L,Kurla Station (West & East),19.0727,72.8826,Moderate
+Ward L,Bail Bazaar,19.0722,72.8771,Moderate
+Ward L,LBS Road near Phoenix Marketcity,19.0888,72.8861,Moderate
+Ward L,CST Road Nullah,19.0813,72.8711,Moderate
+Ward M/E,Shivaji Nagar,19.0572,72.8999,Moderate
+Ward M/E,Baiganwadi,19.0566,72.9021,Moderate
+Ward M/E,Chembur East Bus Depot,19.0524,72.9005,Moderate
+Ward M/W,Mahul Village,19.0054,72.8841,Moderate
+Ward M/W,RC Marg,19.0443,72.8943,Moderate
+Ward M/W,Shell Colony,19.0431,72.8995,Moderate
+M/W,Chembur,19.27786647,72.73192718,Low
+Ward M/W,Trombay Road Sectors,19.0005,72.8873,Moderate
+Ward N,Pant Nagar,19.0845,72.9107,Moderate
+Ward N,Amar Mahal Junction,19.0594,72.9084,Moderate
+Ward N,RB Kadam Marg,19.0898,72.9156,Moderate
+Ward S,Bhandup Tank Road,19.1436,72.9357,Moderate
+Ward S,LBS Marg near Bhandup Station,19.1413,72.9341,Moderate
+S,Kanjurmarg,18.98606011,72.8565653,Low
+Ward S,Ganesh Nagar Slum Slope,19.1145,72.9306,Moderate
+S,Bhandup,18.96848239,72.78874401,Low
+Ward T,Mehul Circle,19.1741,72.9592,Moderate
+T,Mulund,19.13907889,72.94062611,Low
+Ward T,Sarojini Naidu Road,19.172,72.9554,Moderate
+Ward T,Lok Rachana Society,19.1748,72.9426,Moderate
+Ward T,Panch Rasta,19.1735,72.9478,Moderate
+Ward T,Mulund Railway Subway,19.1728,72.9473,Moderate
