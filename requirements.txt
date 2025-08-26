@@ -7,7 +7,5 @@ osmnx==1.9.3
 shapely==2.0.4
 geopandas==0.14.4
 rapidfuzz==3.9.6
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.25.1
 streamlit==1.36.0
 
