@@ -1,13 +1,8 @@
 libspatialindex-dev
-geos
-geos-dev
+libgeos-dev
+libproj-dev
 proj-bin
 proj-data
-proj-dev
-libproj-dev
-libgeos-dev
-libgdal-dev
-libspatialite-dev
-libsqlite3-mod-spatialite
-libgeotiff-dev
 gdal-bin
+libgdal-dev
+libsqlite3-mod-spatialite
