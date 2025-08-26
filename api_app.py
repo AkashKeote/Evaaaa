@@ -19,9 +19,6 @@ from typing import Any, Dict
 
 import streamlit as st
 
-# Reuse logic from backend_api
-import backend_api as core
-
 
 st.set_page_config(page_title="Mumbai Evacuation API (Streamlit)", layout="wide")
 
@@ -35,6 +32,17 @@ def _json_response(payload: Dict[str, Any]):
 
 
 def handle_api():
+    # Lazy import of heavy deps so the app can boot even if runtime is missing packages
+    try:
+        import backend_api as core  # noqa: WPS433
+    except Exception as import_error:
+        _json_response({
+            "error": "Backend not available",
+            "detail": str(import_error),
+            "hint": "Ensure requirements are installed (see requirements.txt)"
+        })
+        return
+
     endpoint = st.query_params.get("endpoint", "").strip().lower()
     q = st.query_params.get("q", "")
     k = st.query_params.get("k", "5")
